@@ -1,0 +1,6 @@
+---
+applications:
+- name:  consultants-r-us-04122018
+  buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git
+  host: consultants-r-us-04122018
+  memory: 128M
